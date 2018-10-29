@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  TREE_LAB
-//
-//  Created by D@ on 10/19/18.
-//  Copyright © 2018 Max Luu. All rights reserved.
-//
-
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>

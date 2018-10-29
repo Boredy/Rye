@@ -1,11 +1,3 @@
-//
-//  NodeT.cpp
-//  TREE_LAB
-//
-//  Created by D@ on 10/19/18.
-//  Copyright © 2018 Max Luu. All rights reserved.
-//
-
 #include "NodeT.hpp"
 #include <iostream>
 #include <string>

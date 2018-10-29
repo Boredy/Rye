@@ -1,11 +1,3 @@
-//
-//  TreePuzzle.hpp
-//  TREE_LAB
-//
-//  Created by D@ on 10/19/18.
-//  Copyright © 2018 Max Luu. All rights reserved.
-//
-
 #ifndef TREEPUZZLE_HPP_
 #define TREEPUZZLE_HPP_
 #include <stdlib.h>
